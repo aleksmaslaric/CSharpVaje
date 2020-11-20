@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulator", "CSharpVaje\Ka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kruh", "Kruh\Kruh.csproj", "{50B961C0-F521-4B79-BAF9-6B09D87ED567}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalc", "BMICalc\BMICalc.csproj", "{9FC78D9A-D582-47F6-9E98-E18C01C44FAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{50B961C0-F521-4B79-BAF9-6B09D87ED567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50B961C0-F521-4B79-BAF9-6B09D87ED567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50B961C0-F521-4B79-BAF9-6B09D87ED567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC78D9A-D582-47F6-9E98-E18C01C44FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC78D9A-D582-47F6-9E98-E18C01C44FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC78D9A-D582-47F6-9E98-E18C01C44FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC78D9A-D582-47F6-9E98-E18C01C44FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
