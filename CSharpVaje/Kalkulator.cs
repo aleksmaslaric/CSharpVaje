@@ -23,11 +23,13 @@ namespace Kalkulator
             Console.Write("Vnesi drugi število: ");
             b = int.Parse(Console.ReadLine());
 
+            Console.Write("\n==============================");
             Console.WriteLine($"\nVsota števila {a} in {b} je: {a + b}");
             Console.WriteLine($"Razlika števila {a} in {b} je: {a - b}");
             Console.WriteLine($"Zmnožek števila {a} in {b} je: {a * b}");
             Console.WriteLine($"Količnik števila {a} in {b} je: {(double)a / b}");
             Console.WriteLine($"Ostanek med številoma {a} in {b} je: {(double)a % b}");
+            Console.WriteLine("==============================");
 
             Console.ReadKey();
         }
