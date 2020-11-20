@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AC366904-884D-4C49-AE82-A1C7EC0FEED0}</ProjectGuid>
+    <ProjectGuid>{50B961C0-F521-4B79-BAF9-6B09D87ED567}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSharpVaje</RootNamespace>
-    <AssemblyName>CSharpVaje</AssemblyName>
+    <RootNamespace>Kruh</RootNamespace>
+    <AssemblyName>Kruh</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Kalkulator.cs" />
+    <Compile Include="Kruh.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

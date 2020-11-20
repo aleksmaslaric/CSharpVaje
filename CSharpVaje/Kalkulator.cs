@@ -10,9 +10,9 @@ using System.Threading.Tasks;
     Izpiše tudi vsoto, razliko, zmnožek, količnik in ostanek pri deljenju.
   
 */
-namespace CSharpVaje
+namespace Kalkulator
 {
-    class Program
+    class Kalkulator
     {
         static void Main(string[] args)
         {
